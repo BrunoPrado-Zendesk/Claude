@@ -36,10 +36,6 @@ This document lists the recommended plugins for an optimal Claude Code experienc
 ### Utilities
 - **playground** - Creates interactive HTML playgrounds and explorers
 - **skill-creator** - Create and optimize custom skills
-- **firecrawl** - Advanced web scraping and research capabilities
-
-### Integrations
-- **circleback** - Meeting transcription and action item tracking
 
 ## Installation
 
@@ -58,9 +54,7 @@ Add these to your `~/.claude/settings.json`:
     "superpowers@claude-plugins-official": true,
     "playground@claude-plugins-official": true,
     "skill-creator@claude-plugins-official": true,
-    "coderabbit@claude-plugins-official": true,
-    "firecrawl@claude-plugins-official": true,
-    "circleback@claude-plugins-official": true
+    "coderabbit@claude-plugins-official": true
   }
 }
 ```
@@ -107,7 +101,6 @@ After installing these plugins, you'll have access to these skills (use `/skills
 - `frontend-design` - Create frontend interfaces
 - `playground` - Create interactive HTML tools
 - `skill-creator` - Create custom skills
-- `firecrawl-cli` - Web research and scraping
 
 ## Usage Tips
 
