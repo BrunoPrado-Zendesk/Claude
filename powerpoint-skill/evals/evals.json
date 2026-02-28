@@ -1,0 +1,23 @@
+{
+  "skill_name": "powerpoint-zendesk",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "hey, i need you to create a sales deck for our new AI Agents product. the deck is for a meeting tomorrow with a large retail customer (1000+ agents) who's currently using Zendesk Support but wants to add AI automation to reduce ticket volume. they're particularly interested in ROI and implementation timeline. can you make it around 12-15 slides? focus on: problem (high ticket volume), solution (AI Agents), key features, customer success story (maybe use a retail example if you have one), ROI calculator showing ticket deflection rates, and implementation timeline. also add some charts showing before/after metrics. thanks!",
+      "expected_output": "A complete PowerPoint presentation (.pptx file) with 12-15 slides including: title slide, problem statement with data, AI Agents solution overview, key features (with Zendesk branding), customer success story, ROI analysis with charts, implementation timeline, and closing slide. Should include at least 2-3 charts with Zendesk colors showing metrics like ticket deflection, cost savings, or implementation phases.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I have a presentation in my google drive called 'Q4 Product Roadmap - Executive Brief' that needs updating. can you pull it and add a new section about our AI features? specifically add slides covering: (1) AI Agents launch status, (2) Copilot adoption metrics - we hit 2500 customers last month, up from 1800 in sept, (3) AI QA beta program - currently 150 customers testing it. also update the summary slide at the beginning to mention AI as a key initiative. keep the zendesk branding consistent with the rest of the deck please",
+      "expected_output": "Updated presentation with new AI section added. Should retrieve the presentation from Google Drive, add 3-4 new slides about AI features with proper Zendesk branding and formatting that matches existing slides, include a chart showing Copilot adoption growth from 1800 to 2500 customers, and update the executive summary slide to reference AI initiatives.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "need you to review my customer case study presentation for Acme Corp before i send it to the sales team. it's saved locally as 'acme_case_study_draft.pptx' in my downloads folder. check if: branding looks good (colors, fonts, etc match zendesk guidelines), the story flows well, charts are clear and properly labeled, and there's no typos. also let me know if anything needs to be changed for better impact. this is going to be used by AEs in their sales calls so it needs to be solid",
+      "expected_output": "A detailed review of the presentation covering: (1) Branding compliance check against Zendesk Garden guidelines (colors, typography, layout), (2) Content flow assessment, (3) Chart quality review (clarity, labels, color usage), (4) Proofreading for typos/errors, (5) Specific recommendations for improvements with priorities (must-fix vs nice-to-have), (6) Offer to make suggested changes.",
+      "files": []
+    }
+  ]
+}

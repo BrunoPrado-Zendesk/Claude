@@ -1,0 +1,6 @@
+.firecrawl/
+*.pyc
+__pycache__/
+*.pptx
+*.png
+*.jpg
