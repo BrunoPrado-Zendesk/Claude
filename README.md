@@ -14,6 +14,13 @@ This repository contains my global configuration and instructions for Claude Cod
   - `zendesk-ai-sales-specialist` - Expert guidance on Zendesk AI products and sales positioning
   - See [agents/README.md](agents/README.md) for installation and usage
 
+- **PLUGINS.md** - Recommended plugins and skills for optimal workflow
+  - Code quality and review tools
+  - Git and version control enhancements
+  - Development workflow improvements
+  - Security and testing utilities
+  - See [PLUGINS.md](PLUGINS.md) for full list and installation
+
 ## Usage
 
 This configuration file is used to guide Claude Code's behavior across all my projects. It sets:
