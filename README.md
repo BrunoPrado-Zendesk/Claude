@@ -10,6 +10,10 @@ This repository contains my global configuration and instructions for Claude Cod
   - Communication guidelines
   - General coding practices
 
+- **agents/** - Custom specialized agents for Claude Code
+  - `zendesk-ai-sales-specialist` - Expert guidance on Zendesk AI products and sales positioning
+  - See [agents/README.md](agents/README.md) for installation and usage
+
 ## Usage
 
 This configuration file is used to guide Claude Code's behavior across all my projects. It sets:
